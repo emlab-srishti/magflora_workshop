@@ -1,1 +1,1 @@
-# magflora_workshop
+# Mathematics of Magnificent Flora
